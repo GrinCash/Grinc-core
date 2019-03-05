@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=GRINC
+Comment=GRINC P2P Cryptocurrency
+Comment[fr]=GRINC, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=GRINC, eşten eşe kriptografik sanal para birimi
+Exec=GRINC-qt %u
+Terminal=false
+Type=Application
+Icon=GRINC128
+MimeType=x-scheme-handler/GRINC;
+Categories=Office;Finance;
